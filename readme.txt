@@ -6,3 +6,5 @@ git tracks changes of files.
 
 
 create a new branck -dev
+
+creating a new branch is quick and simple.
